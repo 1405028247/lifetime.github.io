@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "gRPC Quick Start"
-date:   2023年10月22日 星期日 22时57分24秒 CST
+date:   2023-10-25 21:03:36 +0530
 categories: Golang gRPC
 ---
 gRPC (gRPC Remote Procedure Calls) 是Google发起的一个开源远程过程调用（Remote procedure call）系统。该系统基于HTTP/2协议传输，使用Protocol Buffers 作为接口描述语言。
